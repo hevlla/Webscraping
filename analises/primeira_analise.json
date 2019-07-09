@@ -1,0 +1,22 @@
+{
+    "cidade": [
+        "Rio de Janeiro",
+        "S\u00e3o Paulo",
+        "Nova York",
+        "Memphis"
+    ],
+    "nome": [
+        "Alice",
+        "Jo\u00e3o",
+        "Malcolm",
+        "Jos\u00e9",
+        "Dalton"
+    ],
+    "problema": [
+        "racismo",
+        "viol\u00eancia",
+        "armas",
+        "balas",
+        "guerra"
+    ]
+}

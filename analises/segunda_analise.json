@@ -1,0 +1,22 @@
+{
+    "cidade": [
+        "Buenos Aires",
+        "Toronto",
+        "Campinas",
+        "Londres",
+        "Berlim"
+    ],
+    "nome": [
+        "Manoel",
+        "Rubem",
+        "Marcelo",
+        "Henrique"
+    ],
+    "problema": [
+        "bullying",
+        "estupro",
+        "fanatismo",
+        "drogas",
+        "desarmamento"
+    ]
+}
